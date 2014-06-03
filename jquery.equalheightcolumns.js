@@ -51,7 +51,8 @@
 							ehc.tallest = $(this).height();
 						}
 					}
-          console.log(ehc.tallest);
+					//NOTE: I added tabs
+					console.log(ehc.tallest);
 
 				});
 
