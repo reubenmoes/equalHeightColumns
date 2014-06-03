@@ -51,6 +51,7 @@
 							ehc.tallest = $(this).height();
 						}
 					}
+          console.log(ehc.tallest);
 
 				});
 
